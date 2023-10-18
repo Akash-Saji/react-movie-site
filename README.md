@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo Link
+
+[ Click Here ](https://Akash-Saji.github.io/react-movie-site/)
+
 ## Available Scripts
 
 In the project directory, you can run:

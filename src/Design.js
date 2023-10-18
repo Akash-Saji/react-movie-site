@@ -1,5 +1,5 @@
 import React from "react";
-export const Cards = (movie) => {
+export const Design = (movie) => {
   console.log(movie.info);
   let imgpath = "http://image.tmdb.org/t/p/w500";
   return (
